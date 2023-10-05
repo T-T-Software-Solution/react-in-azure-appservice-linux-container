@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  reactazure:
+    build: .
+    container_name: 'reactazure'
+    ports:
+      - '8000:3000'
