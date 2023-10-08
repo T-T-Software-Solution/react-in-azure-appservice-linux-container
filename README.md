@@ -23,7 +23,7 @@ Run this script to create docker image
 
 Run this script to view list of images
 
-### `docker run -p 8000:3000 --name react-azure react-azure`
+### `docker run -p 8000:80 --name react-azure react-azure`
 
 Run this script to open the website
 Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
