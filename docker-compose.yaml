@@ -4,4 +4,4 @@ services:
     build: .
     container_name: 'reactazure'
     ports:
-      - '8000:80'
+      - '8012:80'
